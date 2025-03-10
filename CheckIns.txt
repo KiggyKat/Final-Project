@@ -1,6 +1,4 @@
 Module 4 Check in - 2/10
 Module 6 Check in - 2/24
-<<<<<<< HEAD
-=======
 Module 8 Check in - 3/09
->>>>>>> f3b776087dc90ca0b9f3f614caf395fd54831240
+Module 10 Checkin - 3/54
